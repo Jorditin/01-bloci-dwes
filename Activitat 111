@@ -1,0 +1,11 @@
+http://www.google.com_Content-Type: text/html
+                        HTTP/1.1 200
+                        
+https://google.com_content-type: text/html
+                   HTTP/2 301 
+
+https://www.google.com_content-type: text/html
+                        HTTP/2 200 
+
+https://www.google.com/x_content-type: text/html
+                         HTTP/2 404 
